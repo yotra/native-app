@@ -1,0 +1,8 @@
+@import "nativescript-theme-core/css/core.light.css";
+
+/* Your CSS goes here */
+
+Page {
+    background-color: wheat;
+    font-size: 18;
+}

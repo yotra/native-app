@@ -1,0 +1,23 @@
+{
+  "description": "NativeScript Application",
+  "nativescript": {
+    "id": "org.nativescript.chenative",
+    "tns-android": {
+      "version": "2.5.0"
+    }
+  },
+  "author": "Ivan Reyvart",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/yotra/native-app.git",
+  "dependencies": {
+    "nativescript-theme-core": "~1.0.2",
+    "tns-core-modules": "^2.5.1"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.23.1",
+    "babel-types": "6.23.0",
+    "babylon": "6.15.0",
+    "lazy": "1.0.11",
+    "nativescript-dev-android-snapshot": "^0.*.*"
+  }
+}

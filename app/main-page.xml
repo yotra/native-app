@@ -1,0 +1,6 @@
+<Page loaded="pageLoaded">
+  <ActionBar title="My Application" class="action-bar"></ActionBar>
+  <!-- Your UI components go here -->
+  <Label text="hello NativeScript" />
+  <Button text="Register" class="link" tap="register" />
+</Page>
